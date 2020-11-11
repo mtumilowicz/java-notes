@@ -2,5 +2,5 @@
 # java-notes
 
 * https://github.com/mtumilowicz/jit-notes
-* GraalVM
+* https://github.com/mtumilowicz/graalvm-notes
 * experimental-projects

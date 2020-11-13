@@ -3,5 +3,5 @@
 
 * https://github.com/mtumilowicz/jit-notes
 * https://github.com/mtumilowicz/java-feature-timeline
-* *TBA*: https://github.com/mtumilowicz/graalvm-notes
+* https://github.com/mtumilowicz/graalvm-notes
 * https://github.com/mtumilowicz/java-incubator-projects
